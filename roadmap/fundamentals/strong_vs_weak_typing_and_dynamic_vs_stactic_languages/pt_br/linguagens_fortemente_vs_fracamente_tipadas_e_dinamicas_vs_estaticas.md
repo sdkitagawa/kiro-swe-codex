@@ -1,11 +1,11 @@
 ## Tipagens e Tipos de Linguagens
 
-**Translations**
+**Traduções**
 
 - [EN-US](../strong_vs_weak_typing_and_dynamic_vs_stactic_languages.md)
 - [PT-BR](./linguagens_fortemente_vs_fracamente_tipadas_e_dinamicas_vs_estaticas.md)
 
-## Navigation
+## Navegação
 <details>
 <summary><b>Menu</b></summary>
 
