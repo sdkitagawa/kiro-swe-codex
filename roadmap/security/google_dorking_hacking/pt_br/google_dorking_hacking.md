@@ -1,11 +1,11 @@
 ## Google Dorking/Hacking
 
-**Translations**
+**Traduções**
 
 - [EN-US](../google_dorking_hacking.md)
 - [PT-BR](./google_dorking_hacking.md)
 
-## Navigation
+## Navegação
 <details>
 <summary><b>Menu</b></summary>
 
