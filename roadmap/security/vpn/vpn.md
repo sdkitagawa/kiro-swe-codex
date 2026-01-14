@@ -139,9 +139,7 @@ Follow the video below for installation:
 <center>
     <br />
     <br />
-    <video width="800" controls>
-		<source src="./assets/proton_installation.mp4" type="video/mp4">
-    </video>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/ONHiiN33ajE?si=vUfdgj17uWeq3Tw-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <br />
     <br />
 </center>
@@ -151,9 +149,7 @@ After installation, log in and connect to the free VPN service. Follow the video
 <center>
     <br />
     <br />
-    <video width="1920" controls>
-		<source src="./assets/proton_connect.mp4" type="video/mp4">
-    </video>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/aGQofGlWzfs?si=MjnK0GtZzxP01DOS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <br />
     <br />
 </center>
@@ -168,9 +164,7 @@ Next, download [Wireshark](https://www.wireshark.org/download.html) and follow t
 <center>
     <br />
     <br />
-    <video width="800" controls>
-		<source src="./assets/wireshark_installation.mp4" type="video/mp4">
-    </video>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/yv4PN8f8iBk?si=xW1xF_28_PVraJ93" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <br />
     <br />
 </center>
@@ -196,12 +190,13 @@ With Wireshark and the free VPN installed:
 
 This represents the ISP's perspective of your internet traffic.
 
+> [!NOTE]
+> **Note**: Watch the video below if you were unable to carry out the steps explained above.
+
 <center>
     <br />
     <br />
-    <video width="1920" controls>
-		<source src="./assets/packet_tracking.mp4" type="video/mp4">
-    </video>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/UX7I2Uuz-Tw?si=8tkc_1XPaHZIg1KV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <br />
     <br />
 </center>
