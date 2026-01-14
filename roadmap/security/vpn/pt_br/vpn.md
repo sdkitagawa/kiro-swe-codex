@@ -136,38 +136,28 @@ Caso você ainda não tenha clicado em um dos links que disponibilizei acima, cl
 
 Acompanhe o vídeo abaixo para saber como efetuar a instalação:
 
-<center>
-    <br />
-    <br />
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/ONHiiN33ajE?si=vUfdgj17uWeq3Tw-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <br />
-    <br />
-</center>
+> [!NOTE]
+> Watch the video:  
+> 
+> [![Watch the video](https://img.youtube.com/vi/ONHiiN33ajE/0.jpg)](https://www.youtube.com/watch?v=ONHiiN33ajE)
 
 Após feita a instalação, faça o login, para se conectar ao serviço do VPN gratuito. Basta seguir o vídeo abaixo:
 
-<center>
-    <br />
-    <br />
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/aGQofGlWzfs?si=MjnK0GtZzxP01DOS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <br />
-    <br />
-</center>
+> [!NOTE]
+> Watch the video:  
+> 
+> [![Watch the video](https://img.youtube.com/vi/aGQofGlWzfs/0.jpg)](https://www.youtube.com/watch?v=aGQofGlWzfs)
 
 Agora precisamos baixar um outro software, que é o [WireShark](https://www.wireshark.org/download.html), após baixar, basta acompanhar o vídeo abaixo para a instalação:
 
 > [!NOTE]
 > 
-> **Nota 1**: Certifique-se de sempre instalar o NPCap, neste caso eu não o instalei, pois eu já o tinha instalado em meu dispositivo.
-> **Nota 2**: Você não precisa marcar nenhuma opção durante a instalação do **NPCap**, só clique em **Install** e prossiga.
-
-<center>
-    <br />
-    <br />
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/yv4PN8f8iBk?si=xW1xF_28_PVraJ93" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <br />
-    <br />
-</center>
+> **Nota 1**: Certifique-se de sempre instalar o NPCap, neste caso eu não o instalei, pois eu já o tinha instalado em meu dispositivo.  
+> **Nota 2**: Você não precisa marcar nenhuma opção durante a instalação do **NPCap**, só clique em **Install** e prossiga.  
+> 
+> Watch the video:  
+> 
+> [![Watch the video](https://img.youtube.com/vi/yv4PN8f8iBk/0.jpg)](https://www.youtube.com/watch?v=yv4PN8f8iBk)
 
 ## Testando na Prática
 
@@ -195,15 +185,12 @@ nslookup google.com
 Essa é a visão que a sua ISP tem do tráfego de internet vindo do seu IP. 
 
 > [!NOTE]
-> **Nota**: Veja o vídeo abaixo caso não tenha conseguido executar os passos explicador acima.
+> **Nota**: Veja o vídeo abaixo caso não tenha conseguido executar os passos explicador acima.  
+> 
+> Watch the video:  
+> 
+> [![Watch the video](https://img.youtube.com/vi/UX7I2Uuz-Tw/0.jpg)](https://www.youtube.com/watch?v=UX7I2Uuz-Tw)
 
-<center>
-    <br />
-    <br />
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/UX7I2Uuz-Tw?si=8tkc_1XPaHZIg1KV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <br />
-    <br />
-</center>
 <br />
 <br />
 
