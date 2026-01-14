@@ -128,7 +128,7 @@ git clone https://github.com/sdkitagawa/kiro-swe-codex.git
 - ### Security
     > Recommendations  
     > 🚗 **Time Wizard Track**  
-    - [HTTP × HTTPS](#)
+    - [HTTP × HTTPS](./roadmap/security/network_protocols/network_protocols.md#http)
     - [How a login system works](#)
     - [Authentication and authorization](#)
     - [CORS](#)
@@ -138,15 +138,16 @@ git clone https://github.com/sdkitagawa/kiro-swe-codex.git
     - [Firewall](#)
     > Recommendations  
     > 🚗 **Larvae Moth Track**  
-    - [HTTP × HTTPS](#)
-    - [FTP](#)
-    - [SMTP](#)
-    - [POP & IMAP](#)
-    - [IP](#)
-    - [TCP](#)
-    - [UDP](#)
-    - [DNS](#)
-    - [SSH](#)
+    - [HTTP × HTTPS](./roadmap/security/network_protocols/network_protocols.md#http)
+    - [FTP](./roadmap/security/network_protocols/network_protocols.md#ftp)
+    - [SMTP](./roadmap/security/network_protocols/network_protocols.md#smtp)
+    - [POP & IMAP](./roadmap/security/network_protocols/network_protocols.md#pop--imap)
+    - [IP](./roadmap/security/network_protocols/network_protocols.md#ip)
+    - [TCP](./roadmap/security/network_protocols/network_protocols.md#tcp)
+    - [UDP](./roadmap/security/network_protocols/network_protocols.md#udp)
+    - [DNS](./roadmap/security/network_protocols/network_protocols.md#dns)
+    - [SSH](./roadmap/security/network_protocols/network_protocols.md#ssh)
+    - [Google Dorking/Hacking](./roadmap/security/google_dorking_hacking/google_dorking_hacking.md)
     - [How a login system works](#)
     - [Authentication and authorization](#)
     - [CORS](#)
