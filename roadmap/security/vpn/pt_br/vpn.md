@@ -139,9 +139,7 @@ Acompanhe o vídeo abaixo para saber como efetuar a instalação:
 <center>
     <br />
     <br />
-    <video width="800" controls>
-		<source src="./assets/proton_installation.mp4" type="video/mp4">
-    </video>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/ONHiiN33ajE?si=vUfdgj17uWeq3Tw-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <br />
     <br />
 </center>
@@ -151,9 +149,7 @@ Após feita a instalação, faça o login, para se conectar ao serviço do VPN g
 <center>
     <br />
     <br />
-    <video width="1920" controls>
-		<source src="./assets/proton_connect.mp4" type="video/mp4">
-    </video>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/aGQofGlWzfs?si=MjnK0GtZzxP01DOS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <br />
     <br />
 </center>
@@ -168,9 +164,7 @@ Agora precisamos baixar um outro software, que é o [WireShark](https://www.wire
 <center>
     <br />
     <br />
-    <video width="800" controls>
-		<source src="./assets/wireshark_installation.mp4" type="video/mp4">
-    </video>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/yv4PN8f8iBk?si=xW1xF_28_PVraJ93" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <br />
     <br />
 </center>
@@ -206,9 +200,7 @@ Essa é a visão que a sua ISP tem do tráfego de internet vindo do seu IP.
 <center>
     <br />
     <br />
-    <video width="1920" controls>
-		<source src="./assets/packet_tracking.mp4" type="video/mp4">
-    </video>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/UX7I2Uuz-Tw?si=8tkc_1XPaHZIg1KV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <br />
     <br />
 </center>
