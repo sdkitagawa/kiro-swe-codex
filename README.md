@@ -138,6 +138,7 @@ git clone https://github.com/sdkitagawa/kiro-swe-codex.git
     - [Firewall](#)
     > Recommendations  
     > 🚗 **Larvae Moth Track**  
+    - [Handshake](./roadmap/security/handshake/handshake.md)
     - [HTTP × HTTPS](./roadmap/security/network_protocols/network_protocols.md#http)
     - [FTP](./roadmap/security/network_protocols/network_protocols.md#ftp)
     - [SMTP](./roadmap/security/network_protocols/network_protocols.md#smtp)
