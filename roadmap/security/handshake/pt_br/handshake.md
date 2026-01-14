@@ -1,11 +1,11 @@
 ## Handshake
 
-**Translations**
+**Traduções**
 
 - [EN-US](../handshake.md)
 - [PT-BR](./handshake.md)
 
-## Navigation
+## Navegação
 <details>
 <summary><b>Menu</b></summary>
 
