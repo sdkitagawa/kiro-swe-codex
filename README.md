@@ -33,7 +33,7 @@ git clone https://github.com/sdkitagawa/kiro-swe-codex.git
 <summary><b>Junior Roadmap</b></summary>
 
 - ### Fundamentals
-    > [!TIP]  
+    > **Recommendations**  
     > 🚗 **Time Wizard Track**  
     - [How computers work](#)
     - [How programs run in memory](#)
