@@ -136,38 +136,28 @@ Click the image below to download the tool.
 
 Follow the video below for installation:
 
-<center>
-    <br />
-    <br />
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/ONHiiN33ajE?si=vUfdgj17uWeq3Tw-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <br />
-    <br />
-</center>
+> [!NOTE]
+> Watch the video:  
+> 
+> [![Watch the video](https://img.youtube.com/vi/ONHiiN33ajE/0.jpg)](https://www.youtube.com/watch?v=ONHiiN33ajE)
 
 After installation, log in and connect to the free VPN service. Follow the video:
 
-<center>
-    <br />
-    <br />
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/aGQofGlWzfs?si=MjnK0GtZzxP01DOS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <br />
-    <br />
-</center>
+> [!NOTE]
+> Watch the video:  
+> 
+> [![Watch the video](https://img.youtube.com/vi/aGQofGlWzfs/0.jpg)](https://www.youtube.com/watch?v=aGQofGlWzfs)
 
 Next, download [Wireshark](https://www.wireshark.org/download.html) and follow the installation video:
 
 > [!NOTE]
 > 
 > **Note 1**: Always install NPCap. In my case, I already had it installed.  
-> **Note 2**: No options need to be selected during NPCap installation; just click **Install** and proceed.
-
-<center>
-    <br />
-    <br />
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/yv4PN8f8iBk?si=xW1xF_28_PVraJ93" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <br />
-    <br />
-</center>
+> **Note 2**: No options need to be selected during NPCap installation; just click **Install** and proceed.  
+> 
+> Watch the video:
+> 
+> [![Watch the video](https://img.youtube.com/vi/yv4PN8f8iBk/0.jpg)](https://www.youtube.com/watch?v=yv4PN8f8iBk)
 
 # Practical Testing
 
@@ -191,15 +181,12 @@ With Wireshark and the free VPN installed:
 This represents the ISP's perspective of your internet traffic.
 
 > [!NOTE]
-> **Note**: Watch the video below if you were unable to carry out the steps explained above.
+> **Note**: Watch the video below if you were unable to carry out the steps explained above.  
+> 
+> Watch the video:
+> 
+> [![Watch the video](https://img.youtube.com/vi/UX7I2Uuz-Tw/0.jpg)](https://www.youtube.com/watch?v=UX7I2Uuz-Tw)
 
-<center>
-    <br />
-    <br />
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/UX7I2Uuz-Tw?si=8tkc_1XPaHZIg1KV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <br />
-    <br />
-</center>
 <br />
 <br />
 
