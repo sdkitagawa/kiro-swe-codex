@@ -1,11 +1,11 @@
 ## Linguagens Compiladas vs. Linguagens Interpretadas
 
-**Translations**
+**Traduções**
 
 - [EN-US](../difference_compiled_vs_interpreted_languages.md)
 - [PT-BR](./diferenca_linguagens_compiladas_vs_interpretadas.md)
 
-## Navigation
+## Navegação
 <details>
 <summary><b>Menu</b></summary>
 
