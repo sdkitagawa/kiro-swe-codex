@@ -41,6 +41,7 @@ git clone https://github.com/sdkitagawa/kiro-swe-codex.git
     - [Operational Systems](#)
     - [Compiled Languages × Interpreted Languages](./roadmap/fundamentals/difference_compiled_vs_interpreted_languages/difference_compiled_vs_interpreted_languages.md)
     - [Strong × Weak Typing and Dynamic × Static Languages](./roadmap/fundamentals/strong_vs_weak_typing_and_dynamic_vs_stactic_languages/strong_vs_weak_typing_and_dynamic_vs_stactic_languages.md)
+    - [Variable Naming Convention](./roadmap/fundamentals/variable_naming_convention/variable_naming_convention.md)
     - [Linux (Ubuntu or Debian)](#)
 
 <br />
