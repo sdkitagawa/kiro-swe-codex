@@ -1,11 +1,11 @@
 ## Protocolos Básicos de Rede
 
-**Translations**
+**Tradução**
 
 - [EN-US](../network_protocols.md)
 - [PT-BR](./protocolos_de_rede.md)
 
-## Navigation
+## Navegação
 <details>
 <summary><b>Menu</b></summary>
 
