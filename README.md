@@ -135,7 +135,7 @@ git clone https://github.com/sdkitagawa/kiro-swe-codex.git
     - [CORS](#)
     - [Cookies](#)
     - [Session](#)
-    - [VPN](#)
+    - [VPN](./roadmap/security/vpn/vpn.md)
     - [Firewall](#)
     > Recommendations  
     > 🚗 **Larvae Moth Track**  
